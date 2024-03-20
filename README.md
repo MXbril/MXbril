@@ -4,3 +4,9 @@ Soy un apasionado desarrollador web con un enfoque creativo, combinando habilida
 ## Contáctame
 A medida que continúo mi viaje en el desarrollo Full Stack, siempre estoy buscando proyectos y oportunidades colaborativos donde pueda contribuir con mis habilidades y crecer tanto personal como profesionalmente. **¡Conectémonos y exploremos cómo podemos crear algo increíble juntos!.**
 [Puedes encontrar más sobre mí aquí](https://www.facebook.com/ "Puedes encontrar más sobre mí aquí")
+## Languages
+- Spanish
+- Portuguese
+- English
+- French
+- japones
