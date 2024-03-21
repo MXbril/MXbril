@@ -9,3 +9,9 @@ A medida que continúo mi viaje en el desarrollo Full Stack, siempre estoy busca
 - Front-End: Mi experiencia en Angular me permite crear interfaces interactivas y fáciles de usar...
 ## Habilidades
 - Resolución de problemas: como desarrollador, me encanta resolver problemas complejos. Estoy constantemente explorando nuevas tecnologías.
+## Aficiones
+- Arte
+- Musica
+- Deporte
+- Tecnología
+- Libros
