@@ -15,3 +15,9 @@ A medida que continúo mi viaje en el desarrollo Full Stack, siempre estoy busca
 - Deporte
 - Tecnología
 - Libros
+## Languages
+- Spanish
+- Portuguese
+- English
+- French
+- japones
