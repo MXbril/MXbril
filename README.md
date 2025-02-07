@@ -6,7 +6,13 @@ A medida que continúo mi viaje en el desarrollo Full Stack, siempre estoy busca
 [Puedes encontrar más sobre mí aquí](https://www.linkedin.com/in/maximo-corpus-medina-45041b2ba/) "Puedes encontrar más sobre mí aquí")
 ## Tecnologías
 - Back-End: Competente en Java, aporto un sólido conocimiento del desarrollo del lado del servidor...
-- Front-End: Mi experiencia en Angular me permite crear interfaces interactivas y fáciles de usar...
+- Front-End: Desarrollo interfaces dinámicas y eficientes utilizando tecnologías modernas del ecosistema web. Mi experiencia incluye:
+
+    * Lenguajes: HTML, CSS, JavaScript, TypeScript
+    * Frameworks y Librerías: React.js, Tailwind CSS
+    * Diseño Responsivo: Adaptación para múltiples dispositivos con buenas prácticas de UI/UX
+    * Optimización y Performance: Código limpio, reutilizable y optimizado para mejorar la experiencia del usuario
+
 ## Habilidades
 - Resolución de problemas: como desarrollador, me encanta resolver problemas complejos. Estoy constantemente explorando nuevas tecnologías.
 ## Aficiones
