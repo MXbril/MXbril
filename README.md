@@ -16,7 +16,7 @@ A medida que continúo mi viaje en el desarrollo Full Stack, siempre estoy busca
   
 - Front-End: Desarrollo interfaces dinámicas y eficientes utilizando tecnologías modernas del ecosistema web. Mi experiencia incluye:
 
-   * Lenguajes: HTML, CSS, JavaScript, TypeScript
+   * Lenguajes: JavaScript, TypeScript
    * Frameworks y Librerías: React.js, Tailwind CSS
    * Diseño Responsivo: Adaptación para múltiples dispositivos con buenas prácticas de UI/UX
    * Optimización y Performance: Código limpio, reutilizable y optimizado para mejorar la experiencia del usuario
